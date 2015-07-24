@@ -1,0 +1,1 @@
+{"version":3,"sources":["app/scripts/main.js"],"names":[],"mappings":";;;AACA,OAAO,CAAC,GAAG,CAAC,gBAAgB,CAAC,CAAC","file":"app/scripts/main.js","sourcesContent":["// jshint devel:true\nconsole.log('\\'Allo \\'Allo!');\n"]}
