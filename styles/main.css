@@ -55,15 +55,15 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background:url('http://s22.postimg.org/4hxrpwi5t/Deathto_Stock_Wired5.jpg')no-repeat center center;
+    background:url('http://www.solidbackgrounds.com/images/2880x1800/2880x1800-school-bus-yellow-solid-color-background.jpg')no-repeat center center;
     background-size: cover;
     margin-top: -40px;
 }
 
 .intro-message {
     position: relative;
-    padding-top: 20%;
-    padding-bottom: 20%;
+    padding-top: 10%;
+    padding-bottom: 10%;
 }
 
 .intro-message > h1 {
@@ -80,9 +80,7 @@ h6 {
 
 }
 
-.intro-message > h3 {
-    padding-bottom: 7%
-}
+
 
 @media(max-width:767px) {
     .intro-message {
@@ -149,3 +147,14 @@ h6 {
 .banner-social-buttons {
     float: center;
     }
+    .navbartext ul, li, a {
+      font-size: 12px;
+    }
+    .navbar-brand {
+      font-size: 24px;
+    }
+    .navbar-default {
+      color: yellow;
+
+    }
+  
