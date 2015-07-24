@@ -57,7 +57,7 @@ h6 {
     color: #f8f8f8;
     background:url('http://s22.postimg.org/4hxrpwi5t/Deathto_Stock_Wired5.jpg')no-repeat center center;
     background-size: cover;
-    margin-top: -20px;
+    margin-top: -40px;
 }
 
 .intro-message {
@@ -134,7 +134,7 @@ h6 {
 .section-heading-spacer {
     float: left;
     width: 200px;
-    border-top: 3px solid #e7e7e7;
+    border-top: 3px solid black;
     color: black;
 
 
