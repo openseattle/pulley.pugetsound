@@ -1,0 +1,17 @@
+{
+  "name": "pulleypugetsound",
+  "version": "1.0.0",
+  "description": "",
+  "repository": "https://github.com/openseattle/pulley.pugetsound",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "react": "^0.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
