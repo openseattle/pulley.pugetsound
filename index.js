@@ -1,4 +1,3 @@
-var cool = require('cool-ascii-faces');
 var path = require('path');
 var fs = require('fs');
 var server = require('http').createServer(handler);
@@ -35,6 +34,6 @@ function handler(req, res) {
     );
 }
 
-
 server.listen(process.env.PORT || 5000);
 console.log('go to localhost:5000');
+
