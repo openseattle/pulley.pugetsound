@@ -1,4 +1,3 @@
-
 {
   "engines": {
     "node": "0.12.6"
@@ -8,11 +7,12 @@
   "description": "landing page for https://github.com/openseattle/pulleykingcounty",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.13.1",
-    "react": "^0.13.3",
-    "ejs": "^2.3.3",
+    "bcrypt": "^0.8.4",
     "cool-ascii-faces": "^1.3.3",
-    "jquery": "^2.1.4"
+    "ejs": "^2.3.3",
+    "express": "^4.13.1",
+    "jquery": "^2.1.4",
+    "react": "^0.13.3"
   },
   "devDependencies": {},
   "scripts": {
