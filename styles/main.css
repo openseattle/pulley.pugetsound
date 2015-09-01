@@ -55,7 +55,7 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background:url('http://s22.postimg.org/4hxrpwi5t/Deathto_Stock_Wired5.jpg')no-repeat center center;
+    background:url('https://images.unsplash.com/reserve/Af0sF2OS5S5gatqrKzVP_Silhoutte.jpg?q=80&fm=jpg&s=aa0399d0a07be6afd5470a6dd6092bb3')no-repeat center center;
     background-size: cover;
     margin-top: -40px;
 }
@@ -68,10 +68,12 @@ h6 {
 
 .intro-message > h1 {
     margin: 0;
-    color: white;
+    color: ;
     font-size: 5em;
 
+
 }
+
 
 .intro-divider {
     width: 400px;
@@ -81,7 +83,8 @@ h6 {
 }
 
 .intro-message > h3 {
-    padding-bottom: 7%
+    color: #3232ff;
+
 }
 
 @media(max-width:767px) {
@@ -149,3 +152,8 @@ h6 {
 .banner-social-buttons {
     float: center;
     }
+
+  .node-contact {
+    padding-left: 900px;
+
+  }
