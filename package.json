@@ -6,10 +6,13 @@
   "version": "1.0.0",
   "description": "landing page for https://github.com/openseattle/pulleykingcounty",
   "main": "index.js",
+  "scripts": { 
+    "start": "node  "
+
+},
   "dependencies": {
     "express": "^4.13.1",
     "jquery": "^2.1.4",
-    "jade" : "0.35.0",
     "less-middleware": "0.1.12",
     "nodemailer": "0.5.3",
     "express-validator": "0.8.0"
