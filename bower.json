@@ -1,0 +1,19 @@
+{
+  "name": "pulley.pugetsound",
+  "main": "index.js",
+  "version": "0.0.3",
+  "homepage": "https://github.com/openseattle/pulley.pugetsound",
+  "description": "client side",
+  "moduleType": [],
+  "authors": [
+    "Yonas \"sanoy\" Berhe"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
